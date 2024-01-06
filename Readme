@@ -1,0 +1,4 @@
+In this project we analyze US gun murder data collected  by the FBI.
+download-data.R : This script downloads the CSV file to data directory.
+wrangle-data.R : This script creates a derived dataset and saves as R objet in rda directory
+analysis.R  : this script generates a bar plot and saves it to the figs directory in png format.
